@@ -1,2 +1,8 @@
 # Verilog-TicTacToe
-A tic-tac-toe game made in Verilog using the DE10-Lite FPGA board by Intel. It utilizes the VGA port of the board along with the togglable switches and push buttons to interact with the game. 
+
+Tic Tac Toe game written in verilog.
+
+This is a Quartus Prime project designed for the DE10 Lite board
+
+notes to team:
+this is the full project directory, pin assignments should already be done, you will need a vga cable + display
